@@ -1,0 +1,11 @@
+{
+  "name": "location-combinator",
+  "version": "0.0.1",
+  "factorio_version": "0.14",
+  "title": "Location Combinator",
+  "author": "justarandomgeek",
+  "homepage": "",
+  "contact": "justarandomgeek@gmail.com",
+  "description": "A Combinator that outputs it's location.",
+  "dependencies": ["base >= 0.14.0"]
+}
