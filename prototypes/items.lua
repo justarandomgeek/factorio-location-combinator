@@ -3,7 +3,7 @@ data:extend{
     type = "item",
     name = "location-combinator",
     icon = "__base__/graphics/icons/constant-combinator.png",
-    flags = {"goes-to-quickbar"},
+    icon_size = 32,
     subgroup = "circuit-network",
     place_result="location-combinator",
     order = "b[combinators]-d[location-combinator]",
